@@ -1,0 +1,26 @@
+.ContactList {
+    margin: 20px auto;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+
+/* Style buttons */
+.btn {
+    float: right;
+    background-color: #282c34; /* Blue background */
+    border: #282c34;
+    color: white;
+    padding: 12px 16px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #FDA49A;
+}

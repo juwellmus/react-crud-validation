@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "formik": "^2.1.4",
+    "libphonenumber-js": "^1.7.48",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-phone-number-input": "^3.0.22",
+    "react-scripts": "3.4.0",
+    "str_shorten": "^1.0.18",
+    "uuid": "^7.0.2",
+    "validator": "^13.0.0",
+    "yup": "^0.28.3"
   },
   "scripts": {
     "start": "react-scripts start",
